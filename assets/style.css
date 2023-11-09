@@ -1,6 +1,6 @@
 * {
-  margin: 0px;
-  padding: 0px;
+  margin: 1px;
+  padding: 1px;
   box-sizing: border-box;
 }
 
@@ -29,9 +29,6 @@ body {
   border-bottom-left-radius: 2rem 50%;
   position: absolute;
   width: 400px;
-  /* padding: 20px; */
-
-
 }
 
 .logo-menu {
@@ -47,7 +44,6 @@ body {
   font-size: 15px;
   text-align: center;
   margin-bottom: 10rem;
-
 }
 
 .video-img {
@@ -60,7 +56,6 @@ body {
 
 .video-icon {
   margin: auto;
-  width: 50%;
   border: 1px;
   border-radius: 25px;
   position: absolute;
@@ -105,7 +100,6 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  display: grid;
   place-items: center;
   margin: 1rem auto;
 }
@@ -139,7 +133,6 @@ body {
   opacity: 0.3;
   gap: 40px;
   margin: 1rem auto;
-
 }
 
 .button-img {
@@ -185,12 +178,10 @@ body {
   border-bottom: 1px solid white;
   border-top-left-radius: 40px;
   border-top-right-radius: 40px;
-
 }
 
 .fotter1 {
   flex-direction: column;
-
 }
 
 .fotter2 {
@@ -217,3 +208,4 @@ body {
     margin: 0;
   }
 }
+
