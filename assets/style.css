@@ -1,218 +1,219 @@
 * {
-    margin: 0px;
-    padding: 0px;
-    box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
 }
 
 body {
-    color: black;
-    display: grid;
-    vertical-align: text-top;
-    gap: 4rem;
-    font-size: larger;
+  color: black;
+  display: grid;
+  vertical-align: text-top;
+  gap: 4rem;
+  font-size: larger;
 }
 
 .header-holder {
-    margin: auto;
+  margin: auto;
   width: 50%;
   padding: 10px;
   vertical-align: auto;
   padding-bottom: 9rem;
   color: white;
 }
+
 #header-color {
-    background: linear-gradient(rgb(78, 201, 250), rgb(94, 4, 94));
-    justify-content: center;
-    margin: 40px auto;
-    border-bottom-right-radius: 5rem 50%;
-    border-bottom-left-radius: 2rem 50%;
-    position: absolute;
-    width: 400px;
-    /* padding: 20px; */
+  background: linear-gradient(rgb(78, 201, 250), rgb(94, 4, 94));
+  justify-content: center;
+  margin: 40px auto;
+  border-bottom-right-radius: 5rem 50%;
+  border-bottom-left-radius: 2rem 50%;
+  position: absolute;
+  width: 400px;
+  /* padding: 20px; */
 
 
 }
 
 .logo-menu {
-    display: flex;
-    gap: 15rem;
-    border: 20px;
-    border-radius: 25px;
-    width: 8rem;
-    height: 8rem;
+  display: flex;
+  gap: 15rem;
+  border: 20px;
+  border-radius: 25px;
+  width: 8rem;
+  height: 8rem;
 }
 
 .header2 {
-    font-size: 15px;
-    text-align: center;
-    margin-bottom: 10rem;
-    
+  font-size: 15px;
+  text-align: center;
+  margin-bottom: 10rem;
+
 }
 
 .video-img {
-    margin: auto;
-    background-color: skyblue;
-    padding: 35px;
-    width: 10rem;
-    height: 10rem;
+  margin: auto;
+  background-color: skyblue;
+  padding: 35px;
+  width: 10rem;
+  height: 10rem;
 }
 
 .video-icon {
-    margin: auto;
-    width: 50%;
-    border: 1px;
-    border-radius: 25px;
-    position: absolute;
-    width: 400px;
-    padding: 20px;
+  margin: auto;
+  width: 50%;
+  border: 1px;
+  border-radius: 25px;
+  position: absolute;
+  width: 400px;
+  padding: 20px;
 }
 
 .icon-holder {
-    background-color: blue;
-    display: grid;
-    grid-template-columns: 1fr;
+  background-color: blue;
+  display: grid;
+  grid-template-columns: 1fr;
 }
 
 .container {
-    margin: auto;
-    width: 30%;
-    padding: 50px;
-    vertical-align: auto;
-    padding-bottom: 9rem;
+  margin: auto;
+  width: 30%;
+  padding: 50px;
+  vertical-align: auto;
+  padding-bottom: 9rem;
 }
 
 .container2 {
-    flex-direction: column;
-    text-wrap: wrap;
-   justify-content: space-between;
+  flex-direction: column;
+  text-wrap: wrap;
+  justify-content: space-between;
 }
 
-.header3{
-    text-align: center;
-    gap: 20rem;
+.header3 {
+  text-align: center;
+  gap: 20rem;
 }
 
 .paragraph {
-    text-align: center;
+  text-align: center;
 }
 
 .mtn-img {
-    width: 20rem;
-    height: 10rem;
-    margin-left: 1rem;
-    margin-right: 40rem auto;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    display: grid;
-    place-items: center;
-    margin: 1rem auto;
+  width: 20rem;
+  height: 10rem;
+  margin-left: 1rem;
+  margin-right: 40rem auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  display: grid;
+  place-items: center;
+  margin: 1rem auto;
 }
 
 .signup-button {
-    width: 6rem;
-    height: 2rem;
-    background-color: rgb(144, 5, 144);
-    margin: 10rem auto;
-    border: none;
-    display: flex; 
-    text-align: center;
-    color: white; 
-    border-radius: 6px; 
-    align-items: center; 
-    padding-left: 5px;
-    padding-right: 5px;
-    justify-content: center;
+  width: 6rem;
+  height: 2rem;
+  background-color: rgb(144, 5, 144);
+  margin: 10rem auto;
+  border: none;
+  display: flex;
+  text-align: center;
+  color: white;
+  border-radius: 6px;
+  align-items: center;
+  padding-left: 5px;
+  padding-right: 5px;
+  justify-content: center;
 }
 
 .button-img {
-    flex-direction: column;
-    gap: 25px;
-    align-items: center;
+  flex-direction: column;
+  gap: 25px;
+  align-items: center;
 }
 
 .media-icons {
-    width: 2rem;
-    height: 2rem;
-    display: flex;
-    opacity: 0.3;
-    gap: 40px;
-    margin: 1rem auto;
-    
+  width: 2rem;
+  height: 2rem;
+  display: flex;
+  opacity: 0.3;
+  gap: 40px;
+  margin: 1rem auto;
+
 }
 
 .button-img {
-    flex-direction: column;
+  flex-direction: column;
 }
 
 .material-symbols-outlined {
-    display: inline-block;
+  display: inline-block;
 }
 
 .header4 {
-    text-align: center;
+  text-align: center;
 }
 
 .header4 p {
-    text-align: center;
+  text-align: center;
 }
 
 .telephone {
-    display: flex;
-    justify-content: center;
-    margin: 1rem auto;
+  display: flex;
+  justify-content: center;
+  margin: 1rem auto;
 }
 
 .button2-signup {
-    background-color: rgb(197, 42, 197);
-    border: none;
-    border-radius: 4px;
-    display: flex;
-    margin: 1rem auto;
-    width: 6rem;
-    height: 2rem;
-    color: white;
-    align-items: center;
-    justify-content: center;
+  background-color: rgb(197, 42, 197);
+  border: none;
+  border-radius: 4px;
+  display: flex;
+  margin: 1rem auto;
+  width: 6rem;
+  height: 2rem;
+  color: white;
+  align-items: center;
+  justify-content: center;
 }
 
 .general-div {
-    background: linear-gradient(rgb(78, 201, 250), rgb(94, 4, 94));
-    gap: 20rem;
-    padding: 70px;
-    color: white;
-    border-bottom: 1px solid white;
-    border-top-left-radius: 40px;
-    border-top-right-radius: 40px;
+  background: linear-gradient(rgb(78, 201, 250), rgb(94, 4, 94));
+  gap: 20rem;
+  padding: 70px;
+  color: white;
+  border-bottom: 1px solid white;
+  border-top-left-radius: 40px;
+  border-top-right-radius: 40px;
 
 }
 
 .fotter1 {
-    flex-direction: column;
+  flex-direction: column;
 
 }
 
 .fotter2 {
-    flex-direction: column;
-    margin-bottom: 1px solid white;
+  flex-direction: column;
+  margin-bottom: 1px solid white;
 }
 
 .fotter4 {
-    display: flex;
-    gap: 20rem;
-    padding: 70px;
-    color: white;
-    border-bottom: 1px solid white;
+  display: flex;
+  gap: 20rem;
+  padding: 70px;
+  color: white;
+  border-bottom: 1px solid white;
 }
 
 .fotter3 {
-    margin: 50px;
+  margin: 50px;
 }
 
 @media only screen and (max-width: 425px) {
-    body {
-      font-size: 25px;
-      width: 100vw;
-      margin: 0;
-    }
+  body {
+    font-size: 25px;
+    width: 100vw;
+    margin: 0;
+  }
 }
