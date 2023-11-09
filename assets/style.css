@@ -64,7 +64,7 @@ body {
 }
 
 .icon-holder {
-  background-color: #0000ff;
+  background-color: #00ff;
   display: grid;
   grid-template-columns: 1fr;
 }
