@@ -1,6 +1,6 @@
 * {
   margin: 1px;
-  padding: 0px;
+  padding: 1px;
 }
 
 body {
@@ -27,7 +27,7 @@ body {
   display: grid;
   justify-content: center;
   gap: 30px;
-  background: linear-gradient( #00e6e6, #931393);
+  background: linear-gradient(#00e6e6, #931393);
   border-bottom-left-radius: 100px;
   border-bottom-right-radius: 90px;
 }
@@ -68,7 +68,7 @@ body {
 
 .media-icons {
   display: flex;
-  justify-content:center;
+  justify-content: center;
   opacity: 0.1;
   gap: 2rem;
 }
@@ -112,7 +112,7 @@ body {
   display: grid;
   gap: 30px;
   margin: 1rem;
-  background: linear-gradient( #00e6e6, #931393);
+  background: linear-gradient(#00e6e6, #931393);
   color: #fff;
   border-top-left-radius: 40px;
 }
