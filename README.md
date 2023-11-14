@@ -4,13 +4,13 @@ Today communication is made easy every where you go you can easily have access t
 ## Discover
 MTN was discover many years ago and has brought a lot of impact to the society you just need to get one fom any location where are
 ## Explore popular city
-  MTN is explore every where you go. is available any where are just get a card for cheaper price and enjoy the free bonuse 
+MTN is explore every where you go. is available any where are just get a card for cheaper price and enjoy the free bonuse 
 ## Download
 this platform is to help you discover the most and cheapest network for communication
 ## Email
 you don't need any email to jiont MTN communication
 ## Footer
-  in the footer of this page you will discover more 
+in the footer of this page you will discover more 
 ## Build with
 HTML
 CSS
@@ -18,5 +18,4 @@ CSS
 [link](https://github.com/enowjohn/homa-page/ )
 ## show your support
 give a star to show love
-## contribution
-  we appreciate your used of MTN 
+## contributionwe appreciate your used of MTN 
